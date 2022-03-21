@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Pitanje 1?",
+        "options": ["odg 1", "odg 2", "odg 3", "odg 4"],
+        "correctOptionIndex": "1"
+    },
+    {
+        "title":"Pitanje 2?",
+        "options": ["odg 1", "odg 2", "odg 3", "odg 4"],
+        "correctOptionIndex": "4"
+    },
+    {
+        "title":"Pitanje 3?",
+        "options": ["odg 1", "odg 2", "odg 3", "odg 4"],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title":"Pitanje 4?",
+        "options": ["odg 1", "odg 2", "odg 3", "odg 4"],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title":"Pitanje 5?",
+        "options": ["odg 1", "odg 2", "odg 3", "odg 4"],
+        "correctOptionIndex": "1"
+    }
+]
